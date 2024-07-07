@@ -1,6 +1,46 @@
-.App {
-  text-align: center;
+form{
+  border-style: solid;
+  width: 600px;
+  height: 400px;
+  padding: 50px;
+  margin: auto; 
+  background-color: white;  
+  border-radius: 35px;
+  border-color: rgb(230, 153, 11);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  margin-top: 55px;
+  background-color: rgb(100, 190, 206);
+  
+  
 }
+h1{
+  text-align: center;
+  color: #000;
+}
+
+
+.submit
+{
+ color: rgb(231, 220, 242);
+ width: 200px;
+ background-color: rgb(88, 13, 207);
+ margin-left: 35%;
+ border-style: none;
+ margin-top: 20px;
+height: 30px;
+font-weight:bold;
+border-radius: 15px;
+color: aliceblue;
+font-weight: bold;
+
+}
+
+
+
+
+
+
 
 .App-logo {
   height: 40vmin;
