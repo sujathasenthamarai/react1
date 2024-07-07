@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/singup/static/css/main.c752c95f.css",
-    "main.js": "/singup/static/js/main.6a1c0c9b.js",
-    "static/js/453.a529e84b.chunk.js": "/singup/static/js/453.a529e84b.chunk.js",
-    "index.html": "/singup/index.html",
-    "main.c752c95f.css.map": "/singup/static/css/main.c752c95f.css.map",
-    "main.6a1c0c9b.js.map": "/singup/static/js/main.6a1c0c9b.js.map",
-    "453.a529e84b.chunk.js.map": "/singup/static/js/453.a529e84b.chunk.js.map"
+    "main.css": "/hookform/static/css/main.c752c95f.css",
+    "main.js": "/hookform/static/js/main.357b2f17.js",
+    "static/js/453.a529e84b.chunk.js": "/hookform/static/js/453.a529e84b.chunk.js",
+    "index.html": "/hookform/index.html",
+    "main.c752c95f.css.map": "/hookform/static/css/main.c752c95f.css.map",
+    "main.357b2f17.js.map": "/hookform/static/js/main.357b2f17.js.map",
+    "453.a529e84b.chunk.js.map": "/hookform/static/js/453.a529e84b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c752c95f.css",
-    "static/js/main.6a1c0c9b.js"
+    "static/js/main.357b2f17.js"
   ]
 }
